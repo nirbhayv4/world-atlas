@@ -46,7 +46,7 @@ To get started with the project locally, follow these steps:
 2. Navigate into the project directory:
 
    ```bash
-   cd world-countries-app
+   cd world-atlas
 
    ```
 
