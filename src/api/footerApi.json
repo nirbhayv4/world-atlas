@@ -1,0 +1,17 @@
+[
+    {
+        "icon": "MdPlace",
+        "title": "Find us",
+        "details": "Noida, Uttar Pradesh"
+    },
+    {
+        "icon": "FaGithub",
+        "title": "Github",
+        "details": "github.com/nirbhayv4"
+    },
+    {
+        "icon": "FaLinkedin",
+        "title": "LinkedIn",
+        "details": "linkedin.com/in/nirbhay-verma/"
+    }
+]
